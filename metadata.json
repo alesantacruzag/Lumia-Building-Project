@@ -1,0 +1,8 @@
+{
+  "name": "Edifica - Building Management",
+  "description": "Professional building amenity management and booking platform for residents and administrators.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
